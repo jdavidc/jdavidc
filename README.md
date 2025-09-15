@@ -15,17 +15,18 @@ Currently exploring **API middleware solutions, push notification services, and 
 ![Microservices](https://img.shields.io/badge/Microservices-Expert-6E6E6E?style=flat-square)
 
 ### Databases
-![MySQL](https://img.shields.io/badge/MySQL-Expert-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-Advanced-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Advanced-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Advanced-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-Advanced-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 ### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-Advanced-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Expert-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Intermediate-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Intermediate-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Intermediate-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-Advanced-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-Advanced-5C2D91?style=flat-square&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-Intermediate-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-Intermediate-5C2D91?style=flat-square&logo=githubactions&logoColor=white)
+![Apigee](https://img.shields.io/badge/Apigee-Expert-7D4698?style=flat-square&logo=google-cloud&logoColor=white)
 
 ---
 
